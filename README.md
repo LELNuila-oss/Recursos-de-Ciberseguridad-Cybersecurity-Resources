@@ -22,6 +22,7 @@ CompTIA Security+ en español y desde cero https://youtube.com/playlist?list=PLe
 En la pagina de IBM encontraras multiples recursos de aprendizaje y certificados registrandote: https://skills.yourlearning.ibm.com/activity/PLAN-4FB8400F05FC?channelId=CNL_LCB_1774616368248&channelNavigation=true
 En microsoft todo el material de aprendizaje es gratuito te recomiendo empezar con SC-900: https://learn.microsoft.com/es-es/training/ tomate la libertad de investigar todo su contenido.
 Cisco cuenta con mucho contenido gratuito te recomiendo empezar por: https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US 
+luego te recomendaria que ya en este punto empieces a realizar laboratorios como en tryhackme debo aclarar que requiere suscripcion, te recomiendo la anual. puedes seguir el roadmap que te recomienda tryhackme o saltarte hacia Cyber Security Career Skills y escoger tu especializacion: https://tryhackme.com/hacktivities
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------The same but in English-------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,4 +52,4 @@ At Microsoft, all learning materials are free. I recommend starting with SC-900:
 
 Cisco has a lot of free content; I recommend starting with: https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US
 
-luego te recomendaria que ya en este punto empieces a realizar laboratorios como en tryhackme debo aclarar que requiere suscripcion, te recomiendo la anual. puedes seguir el roadmap que te recomienda tryhackme o saltarte hacia Cyber Security Career Skills y escoger tu especializacion: https://tryhackme.com/hacktivities
+
