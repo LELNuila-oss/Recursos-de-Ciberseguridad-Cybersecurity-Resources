@@ -30,12 +30,13 @@ Este repositorio reúne recursos, plataformas, herramientas y documentación que
 
 1. [Ruta de aprendizaje recomendada](#ruta-de-aprendizaje-recomendada)
 2. [Plataformas y cursos](#plataformas-y-cursos)
-3. [Laboratorios y práctica](#laboratorios-y-práctica)
-4. [Mini SOC Lab con Wazuh](#mini-soc-lab-con-wazuh)
-5. [Herramientas de seguridad](#herramientas-de-seguridad)
-6. [Preparación para CompTIA Security+](#preparación-para-comptia-security)
-7. [Portafolio y búsqueda de empleo](#portafolio-y-búsqueda-de-empleo)
-8. [Crecimiento profesional y GRC](#crecimiento-profesional-y-grc)
+3. [Podcasts que recomiendo](#podcasts-que-recomiendo)
+4. [Laboratorios y práctica](#laboratorios-y-práctica)
+5. [Mini SOC Lab con Wazuh](#mini-soc-lab-con-wazuh)
+6. [Herramientas de seguridad](#herramientas-de-seguridad)
+7. [Preparación para CompTIA Security+](#preparación-para-comptia-security)
+8. [Portafolio y búsqueda de empleo](#portafolio-y-búsqueda-de-empleo)
+9. [Crecimiento profesional y GRC](#crecimiento-profesional-y-grc)
 
 ### Ruta de aprendizaje recomendada
 
@@ -84,6 +85,35 @@ Dedica tiempo a comprender estos temas:
 | [IBM Skills](https://skills.yourlearning.ibm.com/activity/PLAN-4FB8400F05FC?channelId=CNL_LCB_1774616368248&channelNavigation=true) | Recursos de aprendizaje y programas formativos de IBM. | Revisa las opciones disponibles después de registrarte. |
 | [LabEx Cybersecurity](https://labex.io/es/learn/cybersecurity) | Ejercicios prácticos sobre fundamentos, redes y seguridad. | Complementa el estudio teórico con práctica guiada. |
 | [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file) | Una guía externa más amplia sobre aprendizaje en ciberseguridad. | Utilízala como referencia cuando quieras profundizar. |
+
+### Podcasts que recomiendo
+
+Los podcasts son una buena forma de conocer casos reales, seguir la actualidad y familiarizarse con el vocabulario profesional. No sustituyen los cursos ni los laboratorios, pero pueden complementar tu aprendizaje durante viajes, descansos o actividades cotidianas.
+
+#### En español
+
+| Podcast | Enfoque | Por qué lo recomiendo |
+| --- | --- | --- |
+| [Darknet Diaries en español](https://darknetdiaries.com/es/) | Historias reales sobre ataques, filtraciones, malware y ciberdelincuencia. | Explica incidentes complejos mediante historias fáciles de seguir. |
+| [Tierra de Hackers](https://www.tierradehackers.com/) | Noticias, amenazas, hacking y privacidad. | Ayuda a mantenerse al día con un enfoque divulgativo y riguroso. |
+| [Palabra de Hacker](https://www.yolandacorral.com/palabra-de-hacker/) | Entrevistas, charlas y debates con profesionales. | Permite conocer experiencias y perspectivas de personas que trabajan en el sector. |
+| [Ciberseguridad para Humanos](https://securverso.com/ciberseguridad_para_humanos/) | Seguridad digital explicada de forma clara y práctica. | Es una opción accesible para principiantes y evita tecnicismos innecesarios. |
+
+#### En inglés
+
+| Podcast | Enfoque | Por qué lo recomiendo |
+| --- | --- | --- |
+| [Darknet Diaries](https://darknetdiaries.com/) | Historias reales sobre hacking, brechas de datos y cibercrimen. | Combina narrativa, investigación y conceptos técnicos de una forma entretenida. |
+| [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) | Noticias y análisis diarios de ciberseguridad. | Ayuda a aprender vocabulario profesional y seguir las amenazas actuales. |
+| [SANS Internet Stormcast](https://isc.sans.edu/podcast.html) | Resúmenes breves sobre amenazas y eventos recientes. | Es útil para desarrollar el hábito de escuchar contenido técnico en inglés. |
+
+#### Cómo aprovecharlos
+
+1. Escucha primero un episodio corto sin detenerlo.
+2. Anota entre cinco y diez términos nuevos.
+3. Investiga el incidente, herramienta o vulnerabilidad mencionada.
+4. Escribe un resumen breve con tus propias palabras.
+5. En los podcasts en inglés, vuelve a escuchar las partes que no comprendiste y practica su vocabulario.
 
 ### Laboratorios y práctica
 
@@ -220,12 +250,13 @@ This repository brings together resources, learning platforms, tools, and docume
 
 1. [Recommended learning path](#recommended-learning-path)
 2. [Learning platforms and courses](#learning-platforms-and-courses)
-3. [Hands-on labs and practice](#hands-on-labs-and-practice)
-4. [Mini SOC Lab with Wazuh](#mini-soc-lab-with-wazuh)
-5. [Security tools](#security-tools)
-6. [CompTIA Security+ preparation](#comptia-security-preparation)
-7. [Portfolio and job search](#portfolio-and-job-search)
-8. [Career development and GRC](#career-development-and-grc)
+3. [Podcasts I recommend](#podcasts-i-recommend)
+4. [Hands-on labs and practice](#hands-on-labs-and-practice)
+5. [Mini SOC Lab with Wazuh](#mini-soc-lab-with-wazuh)
+6. [Security tools](#security-tools)
+7. [CompTIA Security+ preparation](#comptia-security-preparation)
+8. [Portfolio and job search](#portfolio-and-job-search)
+9. [Career development and GRC](#career-development-and-grc)
 
 ### Recommended learning path
 
@@ -274,6 +305,35 @@ Focus on understanding:
 | [IBM Skills](https://skills.yourlearning.ibm.com/activity/PLAN-4FB8400F05FC?channelId=CNL_LCB_1774616368248&channelNavigation=true) | IBM learning resources and educational programs. | Review the available options after creating an account. |
 | [LabEx Cybersecurity](https://labex.io/es/learn/cybersecurity) | Hands-on exercises covering security fundamentals and networking. | Use it to complement theory with guided practice. |
 | [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file) | A more extensive external cybersecurity learning guide. | Use it as a reference when you are ready to explore more deeply. |
+
+### Podcasts I recommend
+
+Podcasts are a useful way to explore real cases, follow industry news, and become familiar with professional vocabulary. They do not replace courses or hands-on labs, but they can complement your learning during commutes, breaks, or daily activities.
+
+#### In Spanish
+
+| Podcast | Focus | Why I recommend it |
+| --- | --- | --- |
+| [Darknet Diaries in Spanish](https://darknetdiaries.com/es/) | Real stories about attacks, data breaches, malware, and cybercrime. | It explains complex incidents through stories that are easy to follow. |
+| [Tierra de Hackers](https://www.tierradehackers.com/) | Cybersecurity news, threats, hacking, and privacy. | It provides accessible and well-researched coverage of current topics. |
+| [Palabra de Hacker](https://www.yolandacorral.com/palabra-de-hacker/) | Interviews, conversations, and debates with professionals. | It presents experiences and perspectives from people working in the field. |
+| [Ciberseguridad para Humanos](https://securverso.com/ciberseguridad_para_humanos/) | Digital security explained clearly and practically. | It is beginner-friendly and avoids unnecessary technical language. |
+
+#### In English
+
+| Podcast | Focus | Why I recommend it |
+| --- | --- | --- |
+| [Darknet Diaries](https://darknetdiaries.com/) | Real stories about hacking, data breaches, and cybercrime. | It combines storytelling, investigation, and technical concepts in an engaging format. |
+| [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) | Daily cybersecurity news and analysis. | It helps listeners learn professional vocabulary and follow current threats. |
+| [SANS Internet Stormcast](https://isc.sans.edu/podcast.html) | Short updates about recent threats and security events. | It is useful for building the habit of listening to technical English. |
+
+#### How to use them effectively
+
+1. Listen to a short episode once without pausing.
+2. Write down five to ten new terms.
+3. Research the incident, tool, or vulnerability discussed.
+4. Write a short summary in your own words.
+5. For English podcasts, replay the sections you did not understand and practice their vocabulary.
 
 ### Hands-on labs and practice
 
