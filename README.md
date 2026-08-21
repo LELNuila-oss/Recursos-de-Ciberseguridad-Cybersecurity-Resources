@@ -89,6 +89,7 @@ Dedica tiempo a comprender estos temas:
 ### Podcasts que recomiendo
 
 Los podcasts son una buena forma de conocer casos reales, seguir la actualidad y familiarizarse con el vocabulario profesional. No sustituyen los cursos ni los laboratorios, pero pueden complementar tu aprendizaje durante viajes, descansos o actividades cotidianas.
+Podcast sobre entrevistas de trabajo: https://www.youtube.com/watch?v=pbrZ7O9lQko&t=1693s 
 
 #### En español
 
