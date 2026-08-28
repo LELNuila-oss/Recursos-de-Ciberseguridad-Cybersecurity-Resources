@@ -37,6 +37,7 @@ Este repositorio reúne recursos, plataformas, herramientas y documentación que
 7. [Preparación para CompTIA Security+](#preparación-para-comptia-security)
 8. [Portafolio y búsqueda de empleo](#portafolio-y-búsqueda-de-empleo)
 9. [Crecimiento profesional y GRC](#crecimiento-profesional-y-grc)
+10. [LIBROS](#RecopilaciondeLibros)
 
 ### Ruta de aprendizaje recomendada
 
@@ -51,6 +52,7 @@ Si tuviera que comenzar desde cero, seguiría estas etapas:
 | 5 | Preparar una certificación | Consolidar conocimientos con CompTIA Security+ y ejercicios prácticos. |
 | 6 | Documentar proyectos y buscar oportunidades | Fortalecer el portafolio, mejorar el CV y aplicar a puestos iniciales. |
 | 7 | Explorar especializaciones | Desarrollarse en SOC, Blue Team, GRC o áreas relacionadas. |
+| 8 | ¡TODO estudiante de *CIBERSEGURIDAD* debería LEERLOS! | El culto de la vaca muerta, El arte del Engaño y mas.... |
 
 #### 1. Investiga el mercado laboral
 
@@ -85,6 +87,7 @@ Dedica tiempo a comprender estos temas:
 | [IBM Skills](https://skills.yourlearning.ibm.com/activity/PLAN-4FB8400F05FC?channelId=CNL_LCB_1774616368248&channelNavigation=true) | Recursos de aprendizaje y programas formativos de IBM. | Revisa las opciones disponibles después de registrarte. |
 | [LabEx Cybersecurity](https://labex.io/es/learn/cybersecurity) | Ejercicios prácticos sobre fundamentos, redes y seguridad. | Complementa el estudio teórico con práctica guiada. |
 | [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file) | Una guía externa más amplia sobre aprendizaje en ciberseguridad. | Utilízala como referencia cuando quieras profundizar. |
+| [Kevin Mitnick - El arte del engaño](https://drive.google.com/file/d/1xjk6u0uwsUyRacTbExYMg_pyfQwzsnJ_/view?usp=sharing) | Ingeneria Social. | Utilízala como referencia cuando quieras profundizar. | 
 
 ### Podcasts que recomiendo
 
